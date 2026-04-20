@@ -1,13 +1,4 @@
-/**
- * @file workload.c
- * @author Matthias Becker (mabecker@kth.se)
- * @brief Implements the workload used.
- * @version 0.1
- * @date 2025-10-17
- *
- * @copyright Copyright (c) 2025
- */
-#include "bsp.h"
+
 #include "workload.h"
 
 void job_A(jobReturn_t* retval) {
